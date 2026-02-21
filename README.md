@@ -54,3 +54,8 @@ Building & Running
   - This project is built within the [GFX Framework] used in the Computer Graphics course at Politehnica Bucharest.-
   - To run, follow the steps explained here https://ocw.cs.pub.ro/courses/egc/setup-framework
   - The project can run from Visual Studio Installer OpenGL or CMake (Linux)
+
+Screenshots
+  - Image 1: "https://github.com/user-attachments/assets/b3b3bf73-1b68-46ba-a4fc-bdd84aa7b934"
+  - Image 2: "https://github.com/user-attachments/assets/695bd087-b056-44b2-a7b8-b09778c6b333"
+
